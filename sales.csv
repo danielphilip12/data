@@ -1,0 +1,1001 @@
+Date,Customer ID,Store,Sales
+2023-03-03,1,Kew,64
+2023-02-05,9,Collingwood,94
+2022-07-17,7,Prahran,41
+2023-05-30,44,Docklands,58
+2023-05-29,15,Docklands,26
+2022-10-04,22,Ivanhoe,71
+2022-11-21,46,Frankston,27
+2022-08-03,60,Glen Waverly,24
+2023-02-24,18,Carlton,45
+2023-04-23,58,Ivanhoe,33
+2023-05-09,94,Doncaster,35
+2022-07-15,76,South Yarra,25
+2022-08-01,61,Collingwood,26
+2022-12-03,39,Docklands,46
+2023-01-18,75,Richmond,41
+2022-11-21,74,Frankston,73
+2022-10-29,44,Melbourne CBD,70
+2023-05-18,73,Docklands,78
+2022-09-24,70,Doncaster,88
+2023-05-21,69,Carlton,80
+2023-04-24,38,Ivanhoe,82
+2023-06-14,15,Collingwood,82
+2023-04-15,56,Prahran,82
+2023-04-21,38,Fitzroy,85
+2023-04-15,17,Ivanhoe,80
+2023-05-21,80,Docklands,7
+2023-02-16,85,Glen Waverly,88
+2022-08-07,18,Bundoora,85
+2022-10-20,24,Melbourne CBD,57
+2022-11-06,59,Ivanhoe,94
+2023-02-28,15,Fitzroy,94
+2022-10-18,27,Carlton,30
+2023-02-04,72,Kew,86
+2022-07-17,59,Doncaster,98
+2023-01-29,6,Fitzroy,32
+2022-11-30,90,Melbourne CBD,70
+2022-10-03,66,Docklands,86
+2023-03-31,48,Ivanhoe,49
+2022-08-23,67,Prahran,16
+2022-10-18,30,Carlton,44
+2022-11-16,96,Bundoora,87
+2022-11-12,55,Carlton,49
+2023-04-17,64,Prahran,36
+2023-05-21,75,Bundoora,93
+2023-04-25,28,Dandenong,86
+2023-02-15,67,Glen Waverly,8
+2022-10-06,16,Glen Waverly,83
+2023-03-17,7,Melbourne CBD,42
+2022-07-27,21,Collingwood,28
+2022-12-02,95,Ivanhoe,96
+2023-02-07,41,South Yarra,93
+2023-06-30,21,South Yarra,75
+2022-07-15,46,Docklands,68
+2022-10-09,83,Prahran,93
+2022-09-28,49,Doncaster,79
+2022-10-23,47,Dandenong,77
+2023-03-27,24,Collingwood,64
+2023-02-16,96,Frankston,30
+2023-03-31,79,Dandenong,17
+2023-01-18,22,Fitzroy,54
+2023-05-28,60,Prahran,4
+2022-08-12,94,Bundoora,76
+2022-09-07,35,Frankston,84
+2022-12-26,44,Fitzroy,90
+2022-07-26,11,Richmond,33
+2023-05-07,5,Prahran,100
+2022-12-27,31,Richmond,73
+2023-04-17,10,Bundoora,21
+2022-08-25,3,Docklands,41
+2022-10-30,58,Frankston,79
+2023-01-07,46,Melbourne CBD,39
+2022-07-25,94,Frankston,64
+2022-07-28,31,South Yarra,39
+2022-10-18,11,Kew,66
+2023-02-16,12,Doncaster,93
+2022-09-07,84,Doncaster,97
+2022-11-09,76,Collingwood,16
+2023-01-16,41,Bundoora,39
+2023-04-30,99,Docklands,69
+2023-04-20,96,Doncaster,90
+2022-08-02,12,Fitzroy,67
+2022-07-12,33,Melbourne CBD,16
+2023-04-06,31,Glen Waverly,7
+2022-07-21,34,Carlton,4
+2023-03-28,26,Frankston,1
+2023-04-18,55,Frankston,13
+2022-07-24,27,Dandenong,30
+2023-01-11,100,Collingwood,75
+2022-08-10,83,Bundoora,29
+2022-09-26,31,Prahran,81
+2023-01-01,55,Richmond,94
+2023-02-12,9,Glen Waverly,30
+2022-10-06,43,Prahran,30
+2022-11-16,71,Melbourne CBD,77
+2023-06-27,11,Fitzroy,76
+2023-04-15,67,Bundoora,44
+2023-06-26,60,Docklands,81
+2023-02-07,92,Bundoora,95
+2023-01-14,94,Fitzroy,100
+2023-05-20,19,Ivanhoe,1
+2022-09-15,17,Doncaster,20
+2023-01-11,1,Prahran,1
+2022-09-26,22,Glen Waverly,5
+2023-02-14,92,Kew,72
+2022-12-29,48,Docklands,8
+2022-08-22,77,Ivanhoe,18
+2023-06-09,35,Docklands,62
+2023-01-15,36,Docklands,52
+2023-06-16,100,Prahran,12
+2023-06-08,13,Dandenong,31
+2022-12-19,62,Melbourne CBD,64
+2023-02-21,40,Prahran,61
+2023-05-06,21,Ivanhoe,83
+2022-09-30,93,Collingwood,14
+2023-05-23,75,Kew,8
+2023-02-05,87,Melbourne CBD,58
+2022-07-10,11,Docklands,64
+2022-08-22,99,Frankston,74
+2022-12-28,44,Dandenong,49
+2023-05-26,84,Glen Waverly,33
+2023-06-14,5,Richmond,79
+2022-10-03,65,Prahran,51
+2022-09-29,97,Docklands,83
+2022-10-25,21,Ivanhoe,90
+2022-07-31,55,Docklands,85
+2023-05-12,47,South Yarra,89
+2022-07-29,76,South Yarra,13
+2023-06-13,3,Docklands,42
+2023-06-20,55,Docklands,94
+2022-08-22,49,Carlton,49
+2022-10-12,11,Kew,53
+2022-09-26,30,Fitzroy,1
+2023-06-16,26,Richmond,45
+2022-09-28,56,Ivanhoe,37
+2023-05-30,66,Glen Waverly,42
+2022-09-05,53,Glen Waverly,19
+2022-08-08,22,Prahran,61
+2023-04-12,32,Kew,61
+2022-08-18,32,Frankston,3
+2022-11-12,23,Melbourne CBD,44
+2023-06-13,83,Melbourne CBD,5
+2022-10-09,29,Glen Waverly,23
+2023-01-12,57,Melbourne CBD,45
+2022-07-09,10,Richmond,3
+2022-07-07,92,Richmond,38
+2023-04-23,32,Frankston,32
+2022-09-28,13,Ivanhoe,23
+2022-12-31,47,Carlton,70
+2023-04-16,56,Melbourne CBD,18
+2022-07-27,31,Glen Waverly,70
+2023-06-16,14,South Yarra,76
+2022-07-24,39,Glen Waverly,20
+2023-03-09,5,Docklands,14
+2023-04-08,42,Doncaster,34
+2022-08-19,35,Richmond,79
+2023-02-25,10,Bundoora,29
+2023-02-19,99,Glen Waverly,27
+2023-01-03,21,Frankston,95
+2022-11-18,22,Bundoora,20
+2023-03-21,72,Collingwood,59
+2022-08-14,36,Fitzroy,27
+2023-03-15,2,Melbourne CBD,29
+2023-01-24,57,Collingwood,19
+2022-07-20,51,Richmond,40
+2022-07-20,79,Collingwood,37
+2022-09-05,42,South Yarra,83
+2022-09-03,86,Glen Waverly,66
+2023-06-07,85,South Yarra,33
+2022-10-05,59,Glen Waverly,58
+2023-05-22,23,Bundoora,33
+2022-08-18,12,Collingwood,70
+2023-03-18,90,Collingwood,91
+2023-06-03,51,Frankston,38
+2022-12-21,67,Carlton,49
+2022-11-14,1,Collingwood,100
+2023-04-06,61,Bundoora,85
+2022-07-01,46,Glen Waverly,48
+2023-05-29,29,Bundoora,28
+2023-06-07,4,Melbourne CBD,2
+2022-07-08,58,Bundoora,57
+2023-02-17,83,Prahran,96
+2023-05-15,63,Carlton,36
+2022-07-30,52,South Yarra,69
+2023-05-29,64,Bundoora,86
+2022-12-27,61,Collingwood,77
+2022-07-20,24,Fitzroy,10
+2022-09-29,8,Prahran,4
+2022-08-11,4,Carlton,86
+2022-10-01,24,Frankston,47
+2023-05-04,78,Ivanhoe,37
+2023-06-24,46,Docklands,77
+2023-02-14,24,Docklands,56
+2023-02-26,46,Frankston,97
+2023-05-18,3,Richmond,40
+2023-01-31,96,Collingwood,51
+2022-08-14,98,Dandenong,87
+2022-08-20,14,South Yarra,72
+2022-11-10,20,Dandenong,24
+2023-02-21,89,Bundoora,80
+2022-12-24,90,Bundoora,13
+2022-10-21,66,Prahran,85
+2023-03-19,70,Richmond,88
+2022-07-02,64,Dandenong,88
+2023-05-10,82,South Yarra,24
+2023-04-08,63,Collingwood,45
+2022-09-28,81,Glen Waverly,94
+2023-03-19,55,Glen Waverly,100
+2023-06-20,33,Prahran,33
+2022-09-02,80,Collingwood,27
+2023-01-24,9,Prahran,57
+2023-03-16,40,Frankston,17
+2022-11-02,49,Carlton,18
+2022-07-17,38,Frankston,71
+2022-07-07,67,Collingwood,27
+2023-02-28,39,Fitzroy,6
+2023-03-21,88,Prahran,33
+2023-06-05,84,Collingwood,6
+2023-02-06,12,South Yarra,19
+2022-07-03,4,Doncaster,36
+2023-04-21,33,South Yarra,11
+2023-01-29,15,Prahran,3
+2023-01-09,99,Frankston,22
+2023-02-23,61,Collingwood,65
+2022-12-30,72,Melbourne CBD,55
+2023-02-17,84,Richmond,21
+2022-07-06,80,Glen Waverly,72
+2022-10-05,46,Collingwood,19
+2022-11-25,6,Melbourne CBD,32
+2023-03-29,99,Ivanhoe,91
+2023-01-29,70,Collingwood,71
+2022-09-08,37,South Yarra,30
+2022-10-03,2,Carlton,71
+2023-06-26,49,Bundoora,87
+2023-05-22,54,Bundoora,93
+2022-07-12,59,Fitzroy,32
+2023-05-06,31,Ivanhoe,13
+2023-06-15,48,Docklands,44
+2022-08-12,91,Glen Waverly,18
+2022-09-06,83,Richmond,39
+2023-02-28,36,Bundoora,26
+2023-04-16,71,Kew,67
+2022-11-20,43,Frankston,48
+2023-06-12,95,Richmond,60
+2022-08-08,27,Collingwood,49
+2022-11-13,85,Frankston,76
+2023-05-04,72,Prahran,67
+2022-07-03,15,Fitzroy,17
+2022-09-29,57,Frankston,80
+2023-05-12,26,Kew,39
+2022-09-10,75,South Yarra,64
+2023-06-06,71,Melbourne CBD,56
+2022-12-24,57,Kew,32
+2022-12-03,46,Bundoora,65
+2022-09-19,88,Bundoora,15
+2022-11-02,96,Collingwood,76
+2022-07-11,79,South Yarra,6
+2022-12-18,64,Frankston,56
+2023-04-06,62,Bundoora,64
+2023-02-15,2,Fitzroy,6
+2022-09-12,34,Kew,18
+2023-03-21,56,Doncaster,8
+2023-02-06,57,Prahran,25
+2023-06-19,22,Richmond,18
+2023-01-05,35,Collingwood,76
+2023-04-23,5,Frankston,4
+2023-06-12,11,Richmond,98
+2022-12-12,76,Fitzroy,23
+2023-01-31,44,Dandenong,19
+2023-01-14,72,Doncaster,29
+2022-09-05,64,Collingwood,68
+2022-10-04,53,Carlton,83
+2022-12-06,66,Melbourne CBD,25
+2023-06-21,10,Melbourne CBD,54
+2023-06-01,84,Melbourne CBD,15
+2023-04-13,27,Dandenong,76
+2022-08-05,57,Ivanhoe,90
+2023-03-11,53,Frankston,77
+2022-12-18,80,Kew,15
+2023-02-26,22,Ivanhoe,22
+2022-08-27,15,Richmond,19
+2022-12-13,54,Doncaster,84
+2022-10-01,17,South Yarra,51
+2023-01-28,60,Ivanhoe,53
+2022-10-24,19,Ivanhoe,99
+2023-02-13,31,Fitzroy,32
+2022-12-09,18,Fitzroy,37
+2023-02-22,97,Bundoora,80
+2023-06-10,78,Glen Waverly,70
+2022-07-15,84,Collingwood,3
+2023-04-13,77,Richmond,13
+2023-05-13,82,Dandenong,49
+2023-02-02,75,Frankston,54
+2023-05-14,57,Dandenong,83
+2023-06-05,23,Collingwood,68
+2022-11-08,40,Kew,32
+2022-08-01,76,Ivanhoe,71
+2022-09-11,24,Frankston,37
+2022-07-19,75,Docklands,97
+2022-09-30,41,Bundoora,24
+2022-07-11,6,Doncaster,91
+2023-04-27,57,Carlton,49
+2022-10-15,100,South Yarra,12
+2023-06-18,31,Kew,36
+2022-07-31,75,Docklands,96
+2023-06-27,24,Glen Waverly,22
+2022-07-11,16,Prahran,12
+2023-05-29,57,Glen Waverly,24
+2022-08-19,14,Glen Waverly,66
+2022-07-31,98,Ivanhoe,20
+2022-12-12,30,Kew,22
+2023-01-14,67,Prahran,98
+2022-07-12,98,Carlton,85
+2023-06-20,58,Kew,87
+2023-03-07,59,Melbourne CBD,33
+2023-06-14,83,Fitzroy,92
+2023-02-12,58,Melbourne CBD,16
+2022-10-06,39,Fitzroy,34
+2022-08-19,22,Bundoora,23
+2022-10-08,99,Ivanhoe,93
+2023-04-27,3,Prahran,17
+2023-02-11,26,Melbourne CBD,79
+2023-06-17,47,Glen Waverly,53
+2023-06-08,26,Bundoora,61
+2023-05-20,60,Bundoora,69
+2023-06-29,40,Frankston,24
+2023-02-28,21,Doncaster,69
+2023-03-31,49,South Yarra,37
+2023-03-16,55,Fitzroy,58
+2022-10-10,12,Carlton,78
+2023-02-22,41,Melbourne CBD,93
+2023-02-01,68,South Yarra,57
+2023-06-17,32,Ivanhoe,27
+2022-09-22,18,Bundoora,81
+2022-07-27,90,Frankston,10
+2022-10-13,54,Melbourne CBD,83
+2023-03-29,98,Richmond,1
+2023-03-20,89,Doncaster,56
+2022-11-07,9,Richmond,64
+2023-04-12,98,Dandenong,37
+2022-10-18,31,Docklands,94
+2022-09-04,24,Bundoora,15
+2022-12-24,39,South Yarra,74
+2022-08-24,91,Carlton,49
+2022-10-04,66,Prahran,47
+2023-05-13,72,Bundoora,26
+2023-01-06,18,South Yarra,98
+2022-07-28,44,Fitzroy,57
+2023-04-29,14,Doncaster,57
+2022-07-22,25,Fitzroy,46
+2022-09-13,92,Prahran,70
+2023-04-29,27,Melbourne CBD,82
+2022-10-20,10,Docklands,88
+2023-06-12,71,South Yarra,90
+2022-11-28,18,Melbourne CBD,25
+2023-06-23,42,Glen Waverly,83
+2023-06-02,12,Prahran,7
+2022-11-23,85,Prahran,82
+2022-08-30,57,Prahran,34
+2022-08-05,15,Glen Waverly,9
+2022-12-07,69,Frankston,7
+2022-11-25,27,Carlton,6
+2023-05-29,41,Ivanhoe,64
+2022-12-07,77,Docklands,11
+2022-09-27,25,Docklands,92
+2023-03-14,92,Richmond,42
+2023-04-02,47,Collingwood,44
+2023-06-30,44,South Yarra,61
+2023-06-06,53,Richmond,30
+2023-02-02,65,Frankston,45
+2023-05-21,31,Frankston,28
+2022-10-18,74,Bundoora,13
+2022-09-04,33,Dandenong,74
+2022-08-27,31,Docklands,60
+2023-02-28,64,Kew,55
+2022-11-17,86,Glen Waverly,10
+2022-08-11,32,Frankston,65
+2023-04-05,5,Dandenong,21
+2022-12-19,6,South Yarra,91
+2023-03-01,43,Fitzroy,17
+2022-10-26,4,South Yarra,87
+2022-09-26,60,Fitzroy,24
+2023-04-14,23,Melbourne CBD,81
+2022-10-31,44,Docklands,39
+2023-02-10,38,Carlton,20
+2023-05-29,70,Kew,76
+2023-05-04,84,Collingwood,25
+2023-06-19,26,Bundoora,28
+2022-11-12,71,Richmond,62
+2022-12-25,73,Glen Waverly,63
+2023-01-26,69,Frankston,81
+2022-12-19,37,Prahran,64
+2023-01-22,97,Prahran,91
+2023-06-14,56,South Yarra,17
+2023-05-26,78,Frankston,23
+2022-11-24,68,Dandenong,78
+2022-07-18,71,Ivanhoe,53
+2022-12-12,80,Melbourne CBD,50
+2023-05-31,61,Carlton,41
+2022-08-08,7,Dandenong,28
+2022-08-16,17,Fitzroy,56
+2023-03-24,96,Melbourne CBD,32
+2023-01-14,47,Fitzroy,46
+2022-12-19,2,Richmond,85
+2023-06-11,34,Melbourne CBD,42
+2023-03-13,24,Ivanhoe,46
+2023-06-28,78,Carlton,17
+2022-09-19,92,Ivanhoe,54
+2022-12-23,87,Prahran,11
+2022-10-13,11,Glen Waverly,86
+2022-08-29,37,Ivanhoe,54
+2023-06-04,29,Frankston,53
+2023-02-27,73,Richmond,81
+2023-05-05,74,South Yarra,4
+2022-09-24,34,Bundoora,47
+2023-04-12,57,Dandenong,70
+2023-02-15,81,Ivanhoe,86
+2022-12-23,19,Collingwood,35
+2022-09-01,3,Frankston,72
+2022-08-24,61,Doncaster,42
+2022-07-27,52,Doncaster,37
+2022-09-03,38,Glen Waverly,55
+2022-12-15,20,Docklands,89
+2022-08-18,40,Dandenong,71
+2023-01-31,98,Doncaster,27
+2023-01-30,46,Doncaster,24
+2023-06-24,38,Ivanhoe,26
+2022-07-24,79,Kew,74
+2023-06-07,79,South Yarra,64
+2023-06-24,78,Dandenong,67
+2023-05-23,15,Kew,43
+2022-08-22,25,Frankston,43
+2023-06-08,62,Frankston,65
+2023-01-12,31,Carlton,86
+2023-02-20,70,Docklands,88
+2022-09-20,51,South Yarra,39
+2023-01-15,32,Kew,94
+2022-09-19,3,Glen Waverly,17
+2022-08-23,22,Doncaster,3
+2023-06-19,65,Richmond,46
+2022-12-08,57,Collingwood,79
+2022-10-10,24,South Yarra,8
+2023-04-02,89,Docklands,67
+2022-08-07,57,Carlton,74
+2023-04-25,35,Prahran,87
+2022-11-29,20,Collingwood,57
+2022-09-04,99,Collingwood,89
+2023-01-13,49,Dandenong,67
+2023-04-24,26,Carlton,39
+2022-08-30,40,Kew,39
+2022-09-03,35,South Yarra,13
+2023-05-07,98,Kew,65
+2022-08-25,20,South Yarra,2
+2023-06-01,74,Kew,36
+2023-03-30,22,Richmond,71
+2023-02-04,6,Ivanhoe,62
+2022-11-26,32,Bundoora,74
+2023-02-13,70,Doncaster,69
+2022-08-11,82,Prahran,4
+2022-12-05,20,Collingwood,26
+2022-11-28,68,Ivanhoe,42
+2023-04-19,27,Doncaster,40
+2023-01-29,77,Glen Waverly,25
+2022-11-16,7,Carlton,49
+2022-08-30,87,Richmond,55
+2022-09-12,79,Prahran,91
+2023-05-27,2,Doncaster,45
+2023-01-05,46,Collingwood,39
+2022-08-15,71,Fitzroy,7
+2022-09-21,51,Dandenong,41
+2022-10-26,12,Frankston,10
+2023-04-12,73,Glen Waverly,24
+2023-03-23,24,Ivanhoe,28
+2022-07-02,2,Collingwood,30
+2022-07-28,51,Fitzroy,64
+2022-07-02,79,Fitzroy,58
+2023-04-16,71,South Yarra,43
+2022-07-20,57,Glen Waverly,38
+2022-12-02,3,Bundoora,20
+2022-12-28,8,Carlton,62
+2023-02-12,37,Kew,95
+2022-08-12,9,Richmond,33
+2023-05-17,90,Prahran,74
+2022-11-28,15,Doncaster,8
+2023-03-22,96,Docklands,4
+2022-12-07,84,Carlton,25
+2022-09-11,7,Glen Waverly,3
+2023-04-03,97,Ivanhoe,35
+2022-08-14,60,Kew,62
+2022-10-24,12,Ivanhoe,73
+2023-06-29,67,Prahran,38
+2023-03-08,66,Prahran,66
+2023-01-15,4,Dandenong,85
+2022-09-15,49,Dandenong,65
+2022-10-01,23,South Yarra,13
+2022-12-13,29,Fitzroy,17
+2023-01-20,83,Richmond,88
+2023-05-25,85,Richmond,13
+2023-05-09,11,Docklands,78
+2023-01-26,34,Bundoora,19
+2022-10-07,64,Glen Waverly,35
+2023-05-10,51,Kew,100
+2023-02-16,80,Docklands,78
+2023-01-07,35,Melbourne CBD,7
+2022-07-05,69,Prahran,41
+2022-10-03,30,Melbourne CBD,71
+2022-10-02,8,Glen Waverly,9
+2023-03-30,43,Docklands,84
+2022-12-04,63,Kew,53
+2023-04-03,18,South Yarra,95
+2022-07-01,42,Docklands,53
+2022-10-20,65,South Yarra,32
+2022-08-03,71,Fitzroy,35
+2023-01-17,94,Doncaster,62
+2022-08-31,13,Docklands,75
+2022-08-13,97,Collingwood,23
+2023-02-07,86,Ivanhoe,55
+2022-08-08,54,Glen Waverly,39
+2023-03-28,73,South Yarra,79
+2022-08-22,49,Docklands,39
+2023-03-15,80,Prahran,38
+2023-05-04,12,Carlton,14
+2023-01-10,28,Collingwood,39
+2023-04-27,57,Collingwood,21
+2022-10-10,28,Docklands,63
+2022-11-28,13,Richmond,77
+2023-06-09,25,Richmond,55
+2022-12-01,4,South Yarra,42
+2022-11-29,25,Docklands,19
+2023-02-25,1,Frankston,12
+2022-11-02,34,Glen Waverly,96
+2023-06-19,10,Dandenong,24
+2022-09-20,73,Glen Waverly,1
+2023-01-14,28,Ivanhoe,47
+2022-08-23,3,Frankston,65
+2022-10-08,34,Fitzroy,85
+2023-02-25,84,Kew,55
+2022-09-01,63,Dandenong,33
+2023-02-20,21,Collingwood,27
+2022-09-13,92,Carlton,79
+2022-07-06,72,Richmond,9
+2023-05-07,8,South Yarra,44
+2022-10-23,78,South Yarra,85
+2023-06-15,72,Prahran,13
+2022-07-17,92,Dandenong,59
+2022-11-19,17,Prahran,38
+2023-01-10,72,South Yarra,21
+2022-07-16,84,Fitzroy,51
+2023-02-20,26,Richmond,48
+2022-08-22,99,Frankston,86
+2023-02-28,79,Glen Waverly,74
+2023-06-21,60,Glen Waverly,12
+2022-09-21,18,Carlton,14
+2022-12-15,81,South Yarra,17
+2022-10-23,87,Bundoora,50
+2023-02-11,5,Prahran,49
+2023-02-27,3,Bundoora,72
+2022-08-28,59,Richmond,35
+2022-08-28,100,Kew,60
+2023-06-23,40,Carlton,42
+2023-06-19,19,Richmond,13
+2022-09-30,17,South Yarra,29
+2023-01-19,30,Doncaster,100
+2023-06-29,97,Glen Waverly,16
+2023-05-30,76,Ivanhoe,100
+2023-05-20,77,Melbourne CBD,35
+2022-08-30,10,Melbourne CBD,12
+2023-06-11,22,Richmond,85
+2023-01-07,12,Kew,53
+2023-05-11,7,Carlton,9
+2022-08-14,53,Glen Waverly,67
+2022-08-30,83,Frankston,15
+2023-06-15,28,Doncaster,11
+2023-04-19,41,Prahran,51
+2022-11-20,11,Richmond,23
+2022-10-05,29,Glen Waverly,46
+2022-08-28,97,Glen Waverly,73
+2022-08-15,55,Frankston,55
+2023-06-08,24,Carlton,39
+2023-04-22,41,Carlton,75
+2023-05-26,86,Frankston,30
+2022-11-06,37,Carlton,94
+2022-07-04,81,Melbourne CBD,82
+2022-10-27,53,Ivanhoe,19
+2023-04-16,59,Prahran,69
+2023-04-17,31,Melbourne CBD,20
+2022-11-27,40,Melbourne CBD,59
+2023-04-27,92,Ivanhoe,79
+2022-07-20,44,Frankston,66
+2022-09-20,42,Fitzroy,26
+2022-12-01,33,Ivanhoe,43
+2023-05-28,50,Richmond,93
+2022-09-29,33,Richmond,96
+2023-06-04,36,Richmond,58
+2023-01-22,2,South Yarra,41
+2022-07-30,16,Dandenong,9
+2023-05-15,77,Fitzroy,91
+2023-05-28,11,Doncaster,18
+2022-10-02,98,Frankston,58
+2022-10-17,67,Fitzroy,61
+2023-05-08,16,Doncaster,33
+2022-08-23,61,Dandenong,9
+2022-12-14,49,Frankston,20
+2022-12-26,96,Frankston,67
+2023-03-17,53,South Yarra,68
+2023-06-08,1,Docklands,94
+2023-01-10,97,Melbourne CBD,78
+2023-05-24,70,Glen Waverly,18
+2022-08-20,7,Frankston,44
+2023-03-27,40,Richmond,90
+2023-04-06,63,Bundoora,58
+2022-08-05,7,Melbourne CBD,87
+2022-07-04,40,Fitzroy,8
+2022-07-27,67,South Yarra,48
+2022-09-29,74,Melbourne CBD,66
+2023-05-24,9,Fitzroy,81
+2022-12-25,16,Doncaster,33
+2023-03-22,75,Docklands,37
+2022-12-30,37,Collingwood,79
+2022-09-08,85,Bundoora,50
+2022-09-18,32,South Yarra,64
+2022-10-12,47,Doncaster,9
+2022-10-16,38,Bundoora,15
+2022-07-28,87,Prahran,60
+2023-03-08,81,Dandenong,6
+2023-02-23,63,Kew,19
+2023-03-03,74,Kew,79
+2022-09-24,79,Prahran,67
+2022-10-13,82,Prahran,19
+2022-07-18,19,Fitzroy,39
+2023-04-21,56,Glen Waverly,8
+2023-05-11,90,Glen Waverly,10
+2022-11-26,48,Bundoora,42
+2023-02-21,100,Richmond,18
+2022-07-13,12,Dandenong,77
+2023-01-10,73,Doncaster,3
+2022-07-06,55,South Yarra,16
+2023-01-31,70,Richmond,38
+2022-11-12,30,Kew,29
+2022-08-08,90,Richmond,6
+2022-07-25,6,Bundoora,22
+2023-05-24,2,Kew,6
+2022-09-20,22,Frankston,71
+2022-12-30,36,South Yarra,95
+2022-07-26,20,Glen Waverly,99
+2023-04-16,38,Bundoora,46
+2022-09-11,84,Fitzroy,68
+2023-05-09,45,Dandenong,80
+2023-05-29,60,Melbourne CBD,28
+2023-01-23,99,Glen Waverly,50
+2022-11-06,32,Prahran,32
+2023-03-09,73,Frankston,58
+2022-12-14,62,Bundoora,34
+2023-04-04,85,Doncaster,78
+2023-05-23,31,Glen Waverly,92
+2023-01-11,63,Kew,82
+2022-12-13,44,Glen Waverly,11
+2023-03-26,44,Bundoora,71
+2022-12-30,48,Glen Waverly,29
+2022-08-04,63,Melbourne CBD,85
+2023-04-16,12,Frankston,32
+2023-04-14,2,Dandenong,96
+2022-09-05,67,Melbourne CBD,72
+2022-11-18,60,Collingwood,66
+2023-01-16,60,Doncaster,56
+2022-08-07,48,Prahran,73
+2022-07-15,92,Richmond,70
+2023-05-14,64,Carlton,29
+2022-10-27,46,Doncaster,33
+2023-01-17,70,Doncaster,58
+2023-02-05,59,Prahran,11
+2023-03-29,33,Carlton,2
+2022-12-02,29,Prahran,5
+2022-09-29,49,Kew,79
+2023-05-23,47,Richmond,22
+2023-01-08,28,Ivanhoe,95
+2022-10-16,65,Ivanhoe,94
+2022-08-30,27,Glen Waverly,87
+2022-07-12,81,Glen Waverly,56
+2023-05-14,6,Melbourne CBD,96
+2023-03-24,36,Doncaster,79
+2023-06-29,98,Glen Waverly,37
+2022-10-29,54,Ivanhoe,24
+2023-05-22,87,Melbourne CBD,30
+2022-09-01,96,Carlton,41
+2023-03-06,37,Glen Waverly,42
+2022-08-01,78,Frankston,26
+2022-09-19,84,Doncaster,11
+2022-07-26,21,Docklands,97
+2022-10-13,75,Docklands,63
+2023-03-18,10,Dandenong,51
+2022-08-09,1,Bundoora,72
+2022-07-15,87,Ivanhoe,63
+2022-12-09,41,Prahran,50
+2022-07-27,86,South Yarra,61
+2022-07-21,46,Docklands,53
+2023-05-10,39,South Yarra,7
+2022-11-23,59,Bundoora,16
+2023-02-18,85,Frankston,37
+2022-10-25,76,Ivanhoe,40
+2023-04-10,44,Prahran,34
+2022-10-11,56,Doncaster,24
+2022-10-10,92,Kew,89
+2023-03-24,43,South Yarra,20
+2023-01-15,1,Kew,95
+2023-05-27,95,Prahran,35
+2023-04-18,89,Prahran,65
+2022-08-20,90,South Yarra,82
+2023-05-16,1,Fitzroy,43
+2022-11-12,19,Glen Waverly,61
+2022-09-16,39,Ivanhoe,75
+2023-01-10,51,Kew,84
+2023-05-27,55,Kew,18
+2022-09-28,27,Melbourne CBD,15
+2022-11-22,31,Dandenong,35
+2023-02-15,41,Carlton,10
+2023-02-27,89,Dandenong,91
+2023-05-29,53,Kew,35
+2022-08-14,43,Docklands,79
+2022-11-07,29,Carlton,64
+2023-03-13,49,Bundoora,81
+2023-01-28,1,Glen Waverly,31
+2023-04-26,88,Kew,20
+2022-09-28,48,Bundoora,23
+2023-06-15,54,Doncaster,50
+2023-03-14,64,Melbourne CBD,90
+2023-05-07,85,Carlton,20
+2023-01-06,3,Frankston,88
+2023-03-01,27,Collingwood,61
+2023-04-22,91,Fitzroy,3
+2022-08-13,9,Docklands,62
+2023-06-19,77,Frankston,6
+2022-11-25,46,Richmond,99
+2023-01-08,36,Melbourne CBD,56
+2023-02-17,75,Doncaster,35
+2022-09-01,16,Frankston,13
+2023-02-06,64,Fitzroy,94
+2023-02-13,78,Prahran,96
+2022-10-14,40,Docklands,88
+2023-01-18,13,Bundoora,83
+2022-08-15,70,Frankston,32
+2022-12-07,89,Melbourne CBD,48
+2023-06-23,81,Prahran,7
+2023-01-04,76,Kew,86
+2023-05-12,85,Melbourne CBD,15
+2023-02-19,70,Fitzroy,30
+2023-04-05,89,Fitzroy,60
+2023-03-20,10,Bundoora,77
+2022-11-27,22,Dandenong,32
+2022-08-29,81,Doncaster,29
+2022-10-30,26,Fitzroy,65
+2023-05-21,43,Bundoora,91
+2023-04-09,79,Collingwood,37
+2023-04-20,14,Richmond,84
+2022-10-05,5,Carlton,66
+2022-11-15,42,Kew,14
+2022-07-25,33,Frankston,35
+2023-05-04,69,Richmond,69
+2023-01-09,41,Frankston,56
+2023-01-28,56,Carlton,52
+2023-03-24,63,Prahran,76
+2022-10-19,77,Frankston,11
+2022-09-30,90,Docklands,98
+2023-02-25,69,Fitzroy,1
+2022-09-29,37,Glen Waverly,72
+2023-06-24,60,South Yarra,12
+2023-05-03,37,Frankston,27
+2023-01-03,85,Prahran,35
+2022-11-18,72,Richmond,26
+2022-08-19,2,Melbourne CBD,73
+2022-10-26,96,Richmond,24
+2023-04-20,65,Kew,80
+2023-01-08,57,Dandenong,57
+2023-01-25,81,South Yarra,71
+2022-08-27,23,Frankston,52
+2022-09-30,18,Bundoora,57
+2023-03-11,81,Kew,89
+2022-08-22,36,Glen Waverly,31
+2022-11-18,29,Bundoora,96
+2023-04-21,56,Dandenong,8
+2022-11-14,85,Frankston,95
+2023-06-28,20,Frankston,22
+2022-12-25,93,Doncaster,75
+2023-06-14,91,Doncaster,3
+2023-05-23,68,Carlton,47
+2023-06-04,27,Doncaster,80
+2023-01-06,64,Dandenong,28
+2023-02-23,13,Kew,9
+2022-11-10,47,Prahran,24
+2023-01-17,9,Carlton,59
+2022-12-12,48,South Yarra,82
+2023-06-14,29,Dandenong,52
+2023-05-07,58,Prahran,10
+2023-02-20,55,Melbourne CBD,54
+2022-10-20,59,Prahran,6
+2023-06-06,85,Bundoora,28
+2022-09-08,3,Fitzroy,95
+2023-02-12,99,Kew,94
+2023-02-24,22,Carlton,65
+2023-06-04,91,Kew,34
+2022-11-18,91,Doncaster,42
+2023-02-26,33,Ivanhoe,34
+2023-03-02,8,Melbourne CBD,86
+2023-06-15,15,Richmond,78
+2022-10-27,11,Ivanhoe,75
+2023-05-17,96,South Yarra,62
+2023-03-11,85,Bundoora,38
+2022-11-26,68,Melbourne CBD,24
+2022-11-29,8,Glen Waverly,11
+2023-04-25,7,Richmond,65
+2022-08-21,96,Collingwood,72
+2022-10-02,43,Prahran,85
+2023-01-30,21,Fitzroy,76
+2022-07-22,83,Bundoora,84
+2022-09-11,17,Carlton,31
+2022-10-21,99,South Yarra,40
+2023-03-03,21,Prahran,47
+2023-06-29,42,Fitzroy,7
+2022-10-13,68,Prahran,55
+2022-11-26,41,Frankston,8
+2022-10-27,43,Collingwood,77
+2022-09-10,82,Fitzroy,94
+2022-09-16,28,Richmond,65
+2023-06-19,18,Frankston,41
+2023-05-25,54,Fitzroy,38
+2023-03-03,9,Collingwood,92
+2022-08-07,65,Richmond,18
+2022-12-26,15,Dandenong,92
+2022-11-02,16,Dandenong,31
+2022-07-31,91,Ivanhoe,67
+2022-10-29,73,Richmond,59
+2022-12-09,93,Docklands,79
+2023-04-09,50,Prahran,62
+2023-03-02,80,Glen Waverly,18
+2023-06-29,4,Ivanhoe,10
+2022-09-04,20,Bundoora,65
+2022-10-19,87,Prahran,7
+2022-07-17,18,Doncaster,73
+2023-04-30,49,Kew,33
+2022-08-01,31,Frankston,75
+2023-02-18,41,Frankston,27
+2023-05-19,28,Docklands,76
+2023-01-29,42,Carlton,10
+2022-07-06,23,Richmond,77
+2023-01-15,77,Bundoora,100
+2023-01-25,67,Docklands,1
+2022-10-17,6,Glen Waverly,4
+2023-03-07,64,Richmond,94
+2022-11-18,32,Dandenong,34
+2023-03-02,15,Richmond,99
+2023-04-29,95,Frankston,80
+2022-09-11,65,Glen Waverly,27
+2023-03-09,59,Doncaster,19
+2022-07-22,41,Kew,22
+2022-12-17,86,Docklands,97
+2022-08-23,88,South Yarra,38
+2022-10-31,26,South Yarra,7
+2023-05-17,62,Melbourne CBD,63
+2022-07-20,37,Collingwood,85
+2023-06-11,11,Richmond,10
+2022-08-18,68,Ivanhoe,43
+2023-06-09,79,Glen Waverly,74
+2022-11-29,55,Carlton,53
+2022-08-07,77,Bundoora,85
+2022-08-20,26,Kew,19
+2023-04-28,48,Glen Waverly,57
+2022-11-08,7,Dandenong,2
+2023-06-07,95,Glen Waverly,79
+2022-08-18,34,Bundoora,52
+2022-11-03,87,Bundoora,62
+2022-12-01,47,Melbourne CBD,38
+2022-09-14,64,Docklands,22
+2023-04-30,18,Doncaster,27
+2023-06-13,62,Bundoora,49
+2022-11-30,50,Docklands,17
+2023-05-19,58,Glen Waverly,36
+2022-11-25,85,Carlton,40
+2022-09-30,53,Richmond,95
+2022-08-09,94,Melbourne CBD,86
+2023-02-12,17,Kew,46
+2022-08-15,30,Doncaster,22
+2022-09-28,77,Kew,59
+2023-01-11,82,Bundoora,21
+2022-12-02,67,Glen Waverly,35
+2023-06-27,96,Collingwood,9
+2022-11-03,79,Docklands,65
+2022-12-09,68,Melbourne CBD,54
+2023-05-28,50,Richmond,65
+2022-09-01,80,Collingwood,6
+2023-04-11,61,Docklands,34
+2023-05-13,25,Prahran,1
+2023-03-29,85,Bundoora,76
+2023-05-06,80,Carlton,71
+2022-12-19,57,Glen Waverly,78
+2022-09-27,28,Richmond,76
+2022-08-13,88,Frankston,20
+2022-09-22,60,Collingwood,85
+2023-03-13,36,Doncaster,50
+2023-04-19,6,Bundoora,95
+2023-05-05,56,Glen Waverly,31
+2022-10-10,54,South Yarra,76
+2023-04-15,59,Glen Waverly,60
+2023-05-24,53,Richmond,53
+2022-09-11,2,Frankston,35
+2023-03-22,10,South Yarra,97
+2023-06-10,28,Doncaster,35
+2022-12-28,56,Doncaster,35
+2022-11-30,2,Prahran,29
+2022-10-24,89,Kew,3
+2023-02-24,98,Melbourne CBD,51
+2023-04-27,82,Ivanhoe,33
+2022-08-30,37,Docklands,26
+2022-08-07,94,Fitzroy,45
+2022-09-06,73,Bundoora,56
+2023-03-26,70,Carlton,100
+2022-09-10,40,Melbourne CBD,36
+2022-08-25,51,Frankston,51
+2022-09-16,79,Ivanhoe,17
+2022-07-30,79,Dandenong,63
+2023-03-15,92,Ivanhoe,93
+2022-07-31,15,Kew,19
+2022-10-01,33,Prahran,31
+2023-03-16,94,South Yarra,84
+2022-07-24,61,Carlton,81
+2023-04-19,58,Collingwood,55
+2022-10-27,26,Bundoora,25
+2023-01-21,38,Prahran,6
+2022-10-10,98,Glen Waverly,3
+2023-05-14,34,Ivanhoe,89
+2022-07-08,19,Fitzroy,56
+2022-10-24,12,Fitzroy,31
+2023-04-30,43,Frankston,1
+2023-02-19,78,Ivanhoe,51
+2022-08-11,81,South Yarra,19
+2022-12-16,97,Doncaster,19
+2023-04-27,49,Ivanhoe,53
+2022-12-26,33,Bundoora,18
+2022-12-04,4,Richmond,19
+2023-03-27,26,South Yarra,98
+2023-01-26,16,Frankston,97
+2023-06-02,100,Bundoora,42
+2023-04-25,1,Doncaster,29
+2022-12-28,66,South Yarra,27
+2022-08-20,37,Glen Waverly,58
+2022-08-15,94,Ivanhoe,84
+2023-04-28,31,Melbourne CBD,44
+2023-06-12,87,Glen Waverly,35
+2022-10-22,56,Docklands,6
+2023-06-16,66,Doncaster,24
+2023-06-02,71,Docklands,34
+2022-11-27,43,Frankston,19
+2022-08-14,18,Bundoora,41
+2022-11-16,85,Ivanhoe,83
+2022-07-10,29,Dandenong,15
+2022-12-16,7,South Yarra,76
+2023-04-01,49,Glen Waverly,16
+2023-02-05,72,South Yarra,96
+2022-09-14,22,Ivanhoe,28
+2022-11-08,56,Dandenong,51
+2023-04-12,93,Richmond,68
+2022-07-15,52,Docklands,9
+2022-12-23,28,Prahran,70
+2023-05-24,63,Glen Waverly,82
+2023-06-21,61,Carlton,76
+2023-05-18,33,Frankston,5
+2022-08-11,96,South Yarra,56
+2022-09-30,67,Kew,90
+2022-09-03,73,Carlton,47
+2023-05-18,48,Dandenong,44
+2023-01-04,42,Doncaster,19
+2022-08-02,49,Docklands,84
+2023-03-09,50,Doncaster,15
+2023-02-26,51,Ivanhoe,46
+2022-12-02,43,Ivanhoe,85
+2023-03-07,53,Melbourne CBD,95
+2022-12-15,75,Collingwood,53
+2023-01-16,93,South Yarra,17
+2022-08-11,10,Doncaster,67
+2023-03-31,66,Carlton,65
+2022-11-13,49,Prahran,64
+2023-03-21,42,Frankston,72
+2022-08-25,95,South Yarra,88
+2023-01-25,76,Dandenong,8
+2023-03-20,43,Doncaster,67
+2022-09-25,73,Melbourne CBD,68
+2022-10-14,10,Glen Waverly,44
+2022-08-13,70,Richmond,72
+2022-08-13,60,Kew,83
+2023-01-08,100,Collingwood,63
+2023-06-27,6,Dandenong,89
+2023-01-09,27,Bundoora,81
+2023-03-05,56,Doncaster,59
+2022-12-27,9,Glen Waverly,16
+2022-12-21,26,South Yarra,91
+2023-06-01,48,Fitzroy,28
+2023-04-05,79,Bundoora,62
+2022-08-01,21,Docklands,63
+2023-02-02,60,Glen Waverly,25
+2023-01-21,42,Carlton,11
+2022-08-16,81,Frankston,12
+2022-10-21,100,Collingwood,33
